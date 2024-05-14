@@ -1,3 +1,4 @@
 byebye
+<<<<<<< HEAD
 
 Hihi 강제
